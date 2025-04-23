@@ -1,4 +1,4 @@
-# instrumentation-amplifier
+hu# instrumentation-amplifier
 # Theory:
 An instrumentation amplifier is a type of differential amplifier designed to amplify very small differential signals while rejecting large common-mode voltages (like noise or interference). It's commonly used in applications like sensor data acquisition, biomedical measurements (like ECG or EEG), and industrial monitoring.
 Key Features:
