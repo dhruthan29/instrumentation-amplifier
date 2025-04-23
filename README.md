@@ -1,4 +1,4 @@
-hu# instrumentation-amplifier
+# Instrumentation-Amplifier
 # Theory:
 An instrumentation amplifier is a type of differential amplifier designed to amplify very small differential signals while rejecting large common-mode voltages (like noise or interference). It's commonly used in applications like sensor data acquisition, biomedical measurements (like ECG or EEG), and industrial monitoring.
 Key Features:
@@ -47,7 +47,8 @@ for Adm=20v/v
 # Circuit diagram
 ![1](https://github.com/user-attachments/assets/ed38e202-5405-40c1-a35d-bde139705e50)
 Output
-![4 08k with common mode voltage ckt](https://github.com/user-attachments/assets/c087d0f1-1ee6-4d86-9ac3-756035019cca)
+![17453874195814816602029892321313](https://github.com/user-attachments/assets/16ff6736-7db9-4bc4-96a2-f7315d66069c)
+
 
 from above output we get vout=0.9*10^-9
 Acm=vout/vin
